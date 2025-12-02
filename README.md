@@ -5,10 +5,10 @@
 
 ### Part 1
 ```
-
+[Part 1] Number of times dial hit 0: 1048
 ```
 
 ### Part 2
 ```
-
+[Part 2] Number of times dial passed 0: 6498
 ```
