@@ -12,3 +12,11 @@
 ```
 [Part 2] Number of times dial passed 0: 6498
 ```
+
+
+## 📅 Day 2
+
+### Part 1
+```
+[Part 1] Sum of invalid IDs: 38158151648
+```
