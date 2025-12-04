@@ -26,3 +26,10 @@
 [Part 2] Sum of invalid IDs: 45283684555
 ```
 
+
+## 📅 Day 3
+
+### Part 1
+```
+[Part 1] Sum of maximum joltage pairs from each bank: 17095
+```
