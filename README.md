@@ -20,3 +20,9 @@
 ```
 [Part 1] Sum of invalid IDs: 38158151648
 ```
+
+### Part 2
+```
+[Part 2] Sum of invalid IDs: 45283684555
+```
+
