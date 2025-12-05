@@ -33,3 +33,8 @@
 ```
 [Part 1] Sum of maximum joltage pairs from each bank: 17095
 ```
+
+### Part 2
+```
+[Part 2] Sum of maximum joltage sequences from each bank: 168794698570517
+```
