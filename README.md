@@ -38,3 +38,10 @@
 ```
 [Part 2] Sum of maximum joltage sequences from each bank: 168794698570517
 ```
+
+## 📅 Day 4
+
+### Part 1
+```
+[Part 1] Total number of accessible paper rolls: 1370
+```
