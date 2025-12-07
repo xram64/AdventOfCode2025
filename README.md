@@ -59,5 +59,10 @@
 
 ### Part 1
 ```
-[Part 1] Number of fresh ingredient IDs: 707
+[Part 1] Number of available fresh ingredient IDs: 707
+```
+
+### Part 2
+```
+[Part 2] Total number of fresh ingredient IDs from ranges: 361615643045059
 ```
