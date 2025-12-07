@@ -66,3 +66,11 @@
 ```
 [Part 2] Total number of fresh ingredient IDs from ranges: 361615643045059
 ```
+
+
+## 📅 Day 6
+
+### Part 1
+```
+[Part 1] Grand total of homework solutions: 5381996914800
+```
