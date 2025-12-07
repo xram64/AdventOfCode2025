@@ -74,3 +74,8 @@
 ```
 [Part 1] Grand total of homework solutions: 5381996914800
 ```
+
+### Part 2
+```
+[Part 2] Corrected grand total of homework solutions: 9627174150897
+```
