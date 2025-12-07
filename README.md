@@ -39,6 +39,7 @@
 [Part 2] Sum of maximum joltage sequences from each bank: 168794698570517
 ```
 
+
 ## 📅 Day 4
 
 ### Part 1
@@ -52,3 +53,11 @@
 ```
 
 ![Animation for Day 4, Part 2](day04/anim/day04_part2_20fps.png)
+
+
+## 📅 Day 5
+
+### Part 1
+```
+[Part 1] Number of fresh ingredient IDs: 707
+```
