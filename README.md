@@ -45,3 +45,10 @@
 ```
 [Part 1] Total number of accessible paper rolls: 1370
 ```
+
+### Part 2
+```
+[Part 2] Total number of removed paper rolls: 8437
+```
+
+![Animation for Day 4, Part 2](day04/anim/day04_part2_20fps.png)
