@@ -79,3 +79,11 @@
 ```
 [Part 2] Corrected grand total of homework solutions: 9627174150897
 ```
+
+
+## 📅 Day 7
+
+### Part 1
+```
+[Part 1] Total number of splits: 1703
+```
