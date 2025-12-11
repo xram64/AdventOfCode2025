@@ -87,3 +87,8 @@
 ```
 [Part 1] Total number of splits: 1703
 ```
+
+### Part 2
+```
+[Part 2] Total number of paths taken by the beam: 171692855075500
+```
