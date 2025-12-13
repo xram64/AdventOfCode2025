@@ -92,3 +92,11 @@
 ```
 [Part 2] Total number of paths taken by the beam: 171692855075500
 ```
+
+
+## 📅 Day 8
+
+### Part 1
+```
+[Part 1] Product of the three largest circuits: 75582
+```
