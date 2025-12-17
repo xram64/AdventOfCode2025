@@ -100,3 +100,8 @@
 ```
 [Part 1] Product of the three largest circuits: 75582
 ```
+
+### Part 2
+```
+[Part 2] Product of the x-coordinates of the last two boxes connected: 59039696
+```
