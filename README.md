@@ -105,3 +105,11 @@
 ```
 [Part 2] Product of the x-coordinates of the last two boxes connected: 59039696
 ```
+
+
+## 📅 Day 9
+
+### Part 1
+```
+[Part 1] Area of the largest rectangle made by two tiles: 4741451444
+```
