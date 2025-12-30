@@ -113,3 +113,8 @@
 ```
 [Part 1] Area of the largest rectangle made by two tiles: 4741451444
 ```
+
+### Part 2
+```
+[Part 2] Area of the largest rectangle made by two red tiles only containing green tiles: 1562459680
+```
