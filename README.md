@@ -118,3 +118,11 @@
 ```
 [Part 2] Area of the largest rectangle made by two red tiles only containing green tiles: 1562459680
 ```
+
+
+## 📅 Day 10
+
+### Part 1
+```
+[Part 1] Minimum number of button presses to correctly configure all machines: 385
+```
